@@ -1,0 +1,13 @@
+table {
+    border: solid 1px indigo;
+    width: 50%;
+ 
+}
+th {
+    background-color: lightgreen;
+    padding: 10px;
+}
+
+td {
+    padding: 10px;  
+}
